@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/crizalid12/)
-- Live Site URL: [Add live site URL here](https://crizalid12.github.io/Order-summary-component/)
+- Solution URL: (https://github.com/crizalid12/)
+- Live Site URL: (https://crizalid12.github.io/Order-summary-component/)
 
 ## My process
 - I recreate the design in figma
@@ -47,7 +47,7 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://riad.me)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/crizalid12)
-- Twitter - [@yourusername](https://twitter.com/Boutarfa_Riyadh)
+- Website - (https://riad.me)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/crizalid12)
+- Twitter - (https://twitter.com/Boutarfa_Riyadh)
 
