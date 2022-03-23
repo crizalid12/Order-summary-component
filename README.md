@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/crizalid12/)
+- Solution URL: (https://github.com/crizalid12/Order-summary-component)
 - Live Site URL: (https://crizalid12.github.io/Order-summary-component/)
 
 ## My process
