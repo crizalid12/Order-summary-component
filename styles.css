@@ -138,6 +138,8 @@ p {
 
 .proceed {
     display: block;
+    font-size: 16px;
+    font-weight: 800;
     padding: 15px;
     background: #3829E0;
     box-shadow: 2px 6px 6px hsla(0, 0%, 35%, 0.25);
@@ -150,6 +152,7 @@ p {
 
 .cancel {
     display: inline-block;
+    font-size: 16px;
     padding: 15px;
     border-radius: 12px;
     margin: 0 auto;
